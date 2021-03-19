@@ -339,6 +339,9 @@ button:hover {
     justify-self: center;
     grid-row: 3;
   }
+  .footer .attribution{
+    text-align: center;
+  }
 }
 @media (max-width: 500px) {
   .grid {
@@ -507,5 +510,8 @@ button:hover {
   .footer .social {
     justify-self: center;
     grid-row: 3;
+  }
+  .footer .attribution{
+    text-align: center;
   }
 }
